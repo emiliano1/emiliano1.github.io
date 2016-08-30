@@ -1,0 +1,91 @@
+/*------------------------------------------------------------------
+[Typography]
+*/
+
+a {
+	color: #33ce75;
+}
+
+a:hover,
+a:focus {
+	color: #752B94;
+}
+
+/*------------------------------------------------------------------
+[Buttons]
+*/
+
+.btn.btn-def,
+.btn.btn-def.btn-outline:hover {
+	border-color: #33ce75;
+	background: #33ce75;
+	color: #fff;
+}
+
+.btn.btn-def:hover {
+	border-color: #1AB55C;
+	background: #1AB55C;
+}
+
+.btn.btn-def.btn-outline {
+	background: transparent;
+	color: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Progress bars]
+*/
+
+.progress-bar.progress-bar-def {
+	background: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Tabs]
+*/
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+	color: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Pagination]
+*/
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover,
+.pagination > li > span.current {
+	color: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Portfolio]
+*/
+
+.filters li a.current {
+	color: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Iconbox]
+*/
+
+.iconbox-icon {
+	background: #33ce75;
+}
+
+.iconbox-icon:hover:after {
+	border-color: #33ce75;
+}
+
+/*------------------------------------------------------------------
+[Profile]
+*/
+
+.profile-icon {
+	color: #33ce75;
+}

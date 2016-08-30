@@ -1,0 +1,91 @@
+/*------------------------------------------------------------------
+[Typography]
+*/
+
+a {
+	color: #f1c40f;
+}
+
+a:hover,
+a:focus {
+	color: #D8AB00;
+}
+
+/*------------------------------------------------------------------
+[Buttons]
+*/
+
+.btn.btn-def,
+.btn.btn-def.btn-outline:hover {
+	border-color: #f1c40f;
+	background: #f1c40f;
+	color: #fff;
+}
+
+.btn.btn-def:hover {
+	border-color: #D8AB00;
+	background: #D8AB00;
+}
+
+.btn.btn-def.btn-outline {
+	background: transparent;
+	color: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Progress bars]
+*/
+
+.progress-bar.progress-bar-def {
+	background: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Tabs]
+*/
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+	color: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Pagination]
+*/
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover,
+.pagination > li > span.current {
+	color: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Portfolio]
+*/
+
+.filters li a.current {
+	color: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Iconbox]
+*/
+
+.iconbox-icon {
+	background: #f1c40f;
+}
+
+.iconbox-icon:hover:after {
+	border-color: #f1c40f;
+}
+
+/*------------------------------------------------------------------
+[Profile]
+*/
+
+.profile-icon {
+	color: #f1c40f;
+}
